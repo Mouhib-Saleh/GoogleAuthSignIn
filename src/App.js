@@ -65,7 +65,7 @@ useEffect(()=>{
       <button onClick={(e)=>handleSignOut(e)}>Sign Out</button>
     }
     </div>
-  );;
+  );
 }
 
 export default App;
